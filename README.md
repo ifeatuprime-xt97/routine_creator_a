@@ -1,16 +1,36 @@
-# routine_creator_ai
+# Routine Creator AI 🧠📅
 
-A new Flutter project.
+A cross-platform Flutter app that helps you **generate, customize, and track daily routines** powered by AI.  
+Supports Android, iOS, Web, Windows, and more!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🤖 AI-generated routines (daily, weekly, monthly)
+- 📝 Add & customize your own routines
+- ⏰ Notifications & reminders
+- 📊 Track your progress
+- 🌙 Dark mode support
+- 🔄 Works offline (Hive storage)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+*(Add screenshots here once the app is running!)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- [Flutter](https://flutter.dev/) (cross-platform)
+- [Hive](https://pub.dev/packages/hive) (local storage)
+- [Provider](https://pub.dev/packages/provider) (state management)
+- [Flutter Local Notifications](https://pub.dev/packages/flutter_local_notifications)
+
+---
+
+## 🏃 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/ifeatuprime-xt97/routine_creator_a.git
+   cd routine_creator_a
